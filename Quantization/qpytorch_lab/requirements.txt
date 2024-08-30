@@ -1,0 +1,9 @@
+sphinx>=1.4
+ipykernel
+nbsphinx
+Ninja
+torchvision
+tqdm
+ninja
+transformers==4.37.0
+qtorch==0.3.0
