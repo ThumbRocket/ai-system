@@ -18,3 +18,5 @@ this code is matmul logic using cuda C. you have to complie that `nvcc -o matmul
 
 #### `./Cuda_coding/0_exercise/convolution.mu`
 this code is convolution logic using cuda C. you have to complie that `nvcc -o convolution.out convolution.cu`
+
+# Quantization
