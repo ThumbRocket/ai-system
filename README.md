@@ -20,3 +20,14 @@ this code is matmul logic using cuda C. you have to complie that `nvcc -o matmul
 this code is convolution logic using cuda C. you have to complie that `nvcc -o convolution.out convolution.cu`
 
 # Quantization
+#### `./Quantization/llm_Lab01_HF.ipynb`
+this notebooks is llm quantization using huggingface
+
+#### `./Quantization/llm_Lab02_Quant.ipynb`
+this notebooks is llm quantization using GPTQ, AWQ
+
+#### `./Quantization/llm_LoRA.ipynb`
+this notebooks is llm quantization using LoRA
+
+#### `./Quantization/llm_QLoRA.ipynb`
+this notebooks is llm quantization using QLoRA
